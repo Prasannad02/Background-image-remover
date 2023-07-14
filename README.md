@@ -17,7 +17,7 @@ Prasanna Image Transition is a web page that showcases a background image transi
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-transition/
+    https://prasannad02.github.io/Background-image-remover/
 ## Getting Started:
 
 To use Prasanna Image Transition web page, follow these steps:
